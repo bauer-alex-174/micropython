@@ -1,0 +1,19 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Dual-core",
+        "External Flash",
+        "USB"
+    ],
+    "images": [
+        ""
+    ],
+    "mcu": "rp2040",
+    "product": "Base V2",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "Alyx"
+}
