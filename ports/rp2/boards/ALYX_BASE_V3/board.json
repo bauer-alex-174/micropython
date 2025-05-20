@@ -1,0 +1,21 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Battery Charging",
+        "Dual-core",
+        "External Flash",
+        "External RAM",
+        "USB-C"
+    ],
+    "images": [
+        ""
+    ],
+    "mcu": "rp2350",
+    "product": "Base V3",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "Alyx"
+}
